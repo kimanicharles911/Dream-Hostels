@@ -1,30 +1,26 @@
-## {Project Name}
-Dream Hostels
-## {Project Description}
+# Dream Hostels
+## Description
 Dream hostels platform helps students book hostels early and get accomodation with ease.
-## {Author}
+## Software Engineers
 * Beryl Negesa
 * Sandra MaryAnn
 * Brian Kibiswa
 * Alex Barasa
 * Charles Kimani
-## {Project setup instructions}
+## Setup/Installation Requirements
 * On the deployed link access the webpage.
 * Home page has about us section.
 * The potential client can view available hostels and book on depending on preferences.
 * On the contact us section property owners can leave us a meesage.
-## {Dependancies}
+## Dependencies
 * v1.5
-## {Technologies Used}
+## Technologies
 * HTML
 * CSS with Bootsrap
 * Javascript with Jquery
-## {Live Link}
-https://beryl01.github.io/Dream-Hostels/
-## {Support and contact details}
-For Further questions and assistance reach us on:
-* email: dreamhostels@gmail.com.
-* phone: +254 70123456.
-## {Copyright and license information}
-Copyrights © 2020 Dream Hostels. All rights reserved
-
+## Contact Me
+kimanicharles911@gmail.com
+## Link to the Portfolio Online Page
+https://kimanicharles911.github.io/bruce-pizzas/
+## License and copyright information.
+Copyrights © 2020 Dream Hostels. All rights reserved. See [my MIT LICENSE](https://github.com/kimanicharles911/Dream-Hostels/blob/master/LICENSE.txt) for details.
