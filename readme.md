@@ -23,4 +23,4 @@ kimanicharles911@gmail.com
 ## Link to the Portfolio Online Page
 https://kimanicharles911.github.io/bruce-pizzas/
 ## License and copyright information.
-Copyrights © 2020 Dream Hostels. All rights reserved. See [my MIT LICENSE](https://github.com/kimanicharles911/bruce-pizzas/blob/master/LICENSE.txt) for details.
+Copyrights © 2020 Dream Hostels. All rights reserved. See [my MIT LICENSE](https://github.com/kimanicharles911/Dream-Hostels/blob/master/LICENSE.txt) for details.
